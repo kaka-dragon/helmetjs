@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/helmetis/static/css/main.073c9b0a.css",
-    "main.js": "/helmetis/static/js/main.e99b1e55.js",
-    "static/js/787.42bc248d.chunk.js": "/helmetis/static/js/787.42bc248d.chunk.js",
-    "static/media/logo.svg": "/helmetis/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/helmetis/index.html",
-    "main.073c9b0a.css.map": "/helmetis/static/css/main.073c9b0a.css.map",
-    "main.e99b1e55.js.map": "/helmetis/static/js/main.e99b1e55.js.map",
-    "787.42bc248d.chunk.js.map": "/helmetis/static/js/787.42bc248d.chunk.js.map"
+    "main.css": "/helmetjs/static/css/main.073c9b0a.css",
+    "main.js": "/helmetjs/static/js/main.1e5e6bee.js",
+    "static/js/787.42bc248d.chunk.js": "/helmetjs/static/js/787.42bc248d.chunk.js",
+    "static/media/logo.svg": "/helmetjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/helmetjs/index.html",
+    "main.073c9b0a.css.map": "/helmetjs/static/css/main.073c9b0a.css.map",
+    "main.1e5e6bee.js.map": "/helmetjs/static/js/main.1e5e6bee.js.map",
+    "787.42bc248d.chunk.js.map": "/helmetjs/static/js/787.42bc248d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e99b1e55.js"
+    "static/js/main.1e5e6bee.js"
   ]
 }
